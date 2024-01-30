@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fa0ce268.css",
+    "main.js": "/static/js/main.d42fcb0b.js",
+    "static/js/787.6a10f9bf.chunk.js": "/static/js/787.6a10f9bf.chunk.js",
+    "static/media/preview.svg": "/static/media/preview.8b2460c21363d3cf67a5af7cadf520cf.svg",
+    "static/media/Bidify_Mint_Privacy_Policy.pdf": "/static/media/Bidify_Mint_Privacy_Policy.378ba4b79e62fad53f34.pdf",
+    "static/media/Bidify_Mint_Terms_and_Conditions.pdf": "/static/media/Bidify_Mint_Terms_and_Conditions.6114c30518425b005e36.pdf",
+    "static/media/mintlogo.png": "/static/media/mintlogo.7bad811fdac0d343c707.png",
+    "static/media/heroIllustration.svg": "/static/media/heroIllustration.066a3aa0fab514c33b3bb5c6dea99a54.svg",
+    "static/media/gnosis.png": "/static/media/gnosis.da8e00adf1e0bafb2b0d.png",
+    "static/media/matic.png": "/static/media/matic.ecb243c52a788bd63818.png",
+    "static/media/etc.png": "/static/media/etc.581583c767598368e548.png",
+    "static/media/eth.png": "/static/media/eth.5059afb8d7976b2b7167.png",
+    "static/media/moonriver.png": "/static/media/moonriver.ae4ece00f277de2b4061.png",
+    "static/media/bnb.png": "/static/media/bnb.dd2aea1f03ed6296b21a.png",
+    "index.html": "/index.html",
+    "main.fa0ce268.css.map": "/static/css/main.fa0ce268.css.map",
+    "main.d42fcb0b.js.map": "/static/js/main.d42fcb0b.js.map",
+    "787.6a10f9bf.chunk.js.map": "/static/js/787.6a10f9bf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa0ce268.css",
+    "static/js/main.d42fcb0b.js"
+  ]
+}
